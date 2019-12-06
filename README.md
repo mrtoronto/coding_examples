@@ -10,17 +10,17 @@ I plan to start with web scraping as it is one of the best mixes of simple code 
 
 ## External Resources
 
-I'd highly recommend starting with a Coursera course. While I'm only recommending coding to you if I think you can handle it, I don't think self-guided learning is a very efficient way to begin coding. I promise you have no idea what you don't know, yet. Feel free to poke around different resources before starting a course but just don't get discouraged if it feels difficult.
+I'd highly recommend starting with a Coursera course. While I'm only recommending coding to you if I think you can handle it, I don't think self-guided learning is a very efficient way to begin coding. You have no idea what you don't know, yet. That being said, feel free to poke around different resources before starting a course but just don't get discouraged if it feels difficult.
 
 ### Beginning Resources
 
-- [Python 4 Everyone (Course)](https://www.coursera.org/specializations/python) is a great course to start with. They'll expose you to a few different buckets of information and it'll give you a solid foundation to either pick your next course or pick another topic to run with.
+- [Python 4 Everyone (Course)](https://www.coursera.org/specializations/python) is a great course to start with. They'll expose you to a few different coding applications and it'll give you a solid foundation to either pick your next course or pick another topic to run with.
 
-- [Python 4 Everyone (Website)](https://www.py4e.com/lessons) is the website version of the above Coursera course. Like I previously mentioned, firmer guidance in the form of a course is probably going to be beneficial but this would probably be the next best thing.
+- [Python 4 Everyone (Website)](https://www.py4e.com/lessons) is the website version of the above Coursera course. Like I previously mentioned, firmer guidance in the form of a course is probably going to be beneficial but this would be the next best thing.
 
-After this first course, I'd think about what you learned and what you want to do. Eventually programming will feel similar to speaking so if you don't feel "fluent" yet, another course on specifically Python isn't out of the question. 
+After this first course, I'd think about what you learned and what you want to do. Eventually programming will feel similar to speaking so if you don't feel "fluent" yet, another course on general Python isn't out of the question. 
 
-That being said, you can take your "conversational" Python skills pretty far without becoming "fluent".
+That being said, you can take your "conversational" Python skills pretty far without becoming "fluent". 
 
 ### Advanced Courses
 
