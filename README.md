@@ -42,8 +42,13 @@ These are courses I've taken or that I think look interesting to give you an ide
 
 #### Machine Learning / Deep Learning
 
-- [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning/home/welcome) - While slightly outdated in spots, this course will give you a fantastic overview of the fundamentals of machine learning. Many of these topics aren't just specific to ML and will come up in the area of data science.
+- [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning/home/welcome) - While slightly outdated in spots, this course will give you a fantastic overview of the fundamentals of machine learning. Many of these topics aren't just specific to ML and will come up in the area of data science. 
 
 - [Deep Learning by deeplearning.ai](https://www.coursera.org/specializations/deep-learning) - This course has a great walkthrough of Deep Learning starting with basic feed-forward neural networks then goes into hyperparameter tuning, and regularization. After building up the foundation using basic Neural Nets, the course expands to include convolutional and recurrent neural networks. 
 
- - [Machine Learning with TensorFlow on Google Cloud Platform]() - This course was a good exposure to the Google Cloud Platform. Knowing how to use cloud hosting services like GCP and AWS is very important in modern coding. This course was entirely done with the GCP and never felt like an annoyance. The content of the course was heavily focused on Tensorflow, specifcally building and tuning models in Tensorflow. 
+ - [Machine Learning with TensorFlow on Google Cloud Platform]() - This course was a good exposure to the Google Cloud Platform. Knowing how to use cloud hosting services like GCP and AWS is very important in tech today. This course was entirely done with the GCP and that never felt like a burden which is impressive. The content of the course was heavily focused on Tensorflow, specifcally building and tuning models in Tensorflow. 
+ 
+ 
+ ### FAQ
+ 
+ 
