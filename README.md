@@ -12,7 +12,9 @@ I plan to start with web scraping as it is one of the best mixes of simple code 
 
 
 <p align="center">
- <img width=400px src="https://about.coursera.org/careers/static/media/coursera.da90eb26.svg">
+ <a href="https://www.coursera.org/">
+  <img width=400px src="https://about.coursera.org/careers/static/media/coursera.da90eb26.svg">
+ </a>
 </p>
 I'd highly recommend starting with a Coursera course. While I'm only recommending coding to you if I think you can handle it, I don't think self-guided learning is a very efficient way to begin coding. You have no idea what you don't know, yet. That being said, feel free to poke around different resources before starting a course but just don't get discouraged if it feels difficult.
 
